@@ -8,7 +8,7 @@ Built with **React + TypeScript + Vite + Tailwind CSS + Framer Motion**. Fully r
 
 ## 🚀 Live Demo
 
-[**aroraitsolutations.netlify.app**](https://aroraitsolutations.netlify.app/) *(Business Portfolio project)*
+[**https://arsh-arora.netlify.app/**](https://arsh-arora.netlify.app/) *(Business Portfolio project)*
 
 ---
 
@@ -100,10 +100,10 @@ npm run lint      # ESLint check
 
 ---
 
-## 🌐 Deploy to Vercel
+## 🌐 Deploy to Netlify
 
 1. Push this repo to GitHub
-2. Go to [vercel.com/new](https://vercel.com/new) and import the repository
+2. Go to [netlify.com/new](https://netlify.com/new) and import the repository
 3. Click **Deploy** — no environment variables needed
 
 > A `vercel.json` is already included for correct SPA routing.
